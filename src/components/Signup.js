@@ -60,15 +60,11 @@ function Login() {
         }
     }
 
+
     return (
         <div>
             <MDBNavbar expand="lg" light bgColor="white">
                 <MDBContainer>
-                    <MDBNavbarBrand>
-                        <Link className="navbar-brand" to="/">
-                            Marky Job Search
-                        </Link>
-                    </MDBNavbarBrand>
                     <MDBNavbarNav className="justify-content-end">
                         <MDBNavbarItem>
                             <MDBNavbarLink href="/">Back</MDBNavbarLink>
@@ -157,11 +153,6 @@ function Login() {
                 </MDBCard>
             </MDBContainer>
             <MDBFooter backgroundColor="light" className="text-center py-3">
-        <MDBContainer>
-          <p className="mb-0">
-            &copy; 2023 Marky Job Search. All rights reserved. 
-          </p>
-        </MDBContainer>
       </MDBFooter>
         </div>
     );

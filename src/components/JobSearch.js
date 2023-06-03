@@ -7,7 +7,7 @@ import { MDBFooter, MDBContainer } from 'mdb-react-ui-kit';
 const styles = {
   pageContainer: {
     backgroundImage:
-      "url('https://media.istockphoto.com/id/1141203331/photo/new-job-search-recruitment-career.jpg?s=612x612&w=0&k=20&c=nLBlb1gN0F-TwWKBqTigrZe72_zGigOxbirtCeIcFXU=')",
+      "url('https://st4.depositphotos.com/1026266/27259/i/600/depositphotos_272595470-stock-photo-holding-cloud-system-hologram-screen.jpg')",
     backgroundSize: 'cover',
     backgroundPosition: 'center',
     minHeight: '100vh',

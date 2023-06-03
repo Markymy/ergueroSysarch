@@ -30,7 +30,7 @@ function Home() {
   };
 
   const backgroundStyle = {
-    backgroundImage: 'url("https://outwiths.com/uploads/resource/43/medium/searching-for-a-new-job-1080x720_medium-1080x720.jpg")',
+    backgroundImage: 'url("https://st4.depositphotos.com/1071909/21301/i/600/depositphotos_213017008-stock-photo-industry-automation-robotics-data-exchange.jpg")',
     backgroundSize: "cover",
     backgroundPosition: "center",
     height: "calc(100vh - 60px)", 

@@ -39,7 +39,7 @@ function Login() {
 
   const backgroundStyle = {
     backgroundImage:
-      'url("https://ritecareer.ca/wp-content/uploads/2021/10/jobsearchinfographics-scaled.jpeg")',
+      'url("https://st2.depositphotos.com/1071909/10135/i/600/depositphotos_101358692-stock-photo-new-career-opportunities-in-economy.jpg")',
     backgroundSize: "cover",
     backgroundPosition: "center",
     height: "100vh",
