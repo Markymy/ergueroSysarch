@@ -1,5 +1,5 @@
 const mongoose=require("mongoose")
-mongoose.connect("mongodb+srv://rocabertemarky09:123rocaberte@cluster0.qthhseb.mongodb.net/example")
+mongoose.connect("mongodb+srv://hanserguero:123456789erguero@cluster0.grg89xa.mongodb.net/hans")
 .then(()=>{
     console.log("mongodb connected");
 })
@@ -35,5 +35,5 @@ const newSchema=new mongoose.Schema({
     }
 })
 
-const collection = mongoose.model("single",newSchema)
+const collection = mongoose.model("agents",newSchema)
 module.exports=collection
